@@ -1,6 +1,5 @@
 - Hi, I’m CJ Bradshaw
 - I am a Junior at Utah Valley University studying Computer Science.
-- Currently working at Zygote Media Group where I work with Unity and C# daily.
 - Working on learning WPF applications.
 
 <!---
