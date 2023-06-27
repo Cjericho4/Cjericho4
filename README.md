@@ -1,6 +1,7 @@
 - Hi, I’m CJ Bradshaw
-- I am a Junior at Utah Valley University studying Computer Science.
-- Working on learning WPF applications.
+- I work as a Systems Engineer at TaxHawk.
+- Working on my homelab and using ansible extensively at work and at home.
+- Working on learning more kubernetes.
 
 <!---
 Cjericho4/Cjericho4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
